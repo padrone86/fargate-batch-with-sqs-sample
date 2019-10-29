@@ -1,0 +1,2 @@
+# fargate-batch-with-sqs-sample
+Fargateバッチをボコスカ叩く仕組みでスロットリング例外が起きないようにする仕組みをテストしてみる
